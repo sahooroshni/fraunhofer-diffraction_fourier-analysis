@@ -18,11 +18,6 @@ In this project, we show that a worthwhile approach to understand the connection
 <em>Circular aperture and its diffraction pattern</em>
 </p>
 
-### To generate these results 
-1. To generate the diffraction pattern for a keyhole/circular aperture run the this [code](/code/keyhole-aperture_patter.py). 
-
-2. To generate the diffraction pattern for a rectangular aperture, run this [code](/code/rect-aperture_pattern.py). 
-
 
 <em> Project completed under the supervision of Dr. Leena Joshi at St. Xavier's College, Mumbai <em>
 
